@@ -6,6 +6,9 @@
 //  Copyright © 2020 Adam Jackrel. All rights reserved.
 //
 
+//LOVE THE DESIGN AND SOUND CHOICES. VERY FUN TO PLAY WITH. VERY PLEASED YOU WENT THE EXTRA
+//MILE TO FIND SOME NEW SOUND. 10/10 :) -ADAM
+
 import UIKit
 import AVFoundation
 
